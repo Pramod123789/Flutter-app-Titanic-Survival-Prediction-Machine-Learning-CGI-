@@ -1,1 +1,1 @@
-# Fluuter-app-Titanic-Survival-Prediction-Machine-Learning-CGI-
+# Flttuter-app-Titanic-Survival-Prediction-Machine-Learning-CGI-
